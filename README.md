@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | CSE Undergraduate 2025 </h3>
 
 <p align="center">
-  <a href="jeevan-r-portfolio.netlify.app" target="_blank">My-Portfolio</a>
+  <a href="https://jeevan-r-portfolio.netlify.app" target="_blank">My-Portfolio</a>
 </p>
 
 <p align="left">
